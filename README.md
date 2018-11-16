@@ -4,15 +4,15 @@ Implementation of the 'Riversi Game'
 
 
 Team members:
-Jiazheng_Li (16212162), Svetoslav_Nizhnichenkov (17712081)
+Jiazheng Li (16212162), Svetoslav Nizhnichenkov (17712081)
 
 
-Svetoslav_Nizhnichenkov (17712081)
+Svetoslav Nizhnichenkov (17712081)
 Worked on: 
 1. A.2.1 Computing positions where the player can move
 2. A.2.2 Asking the player for his next move
 
-Jiazheng_Li (16212162)
+Jiazheng Li (16212162)
 Worked on: 
 1. A.2.3 Disks placement
 2. A.3 Print final result 
