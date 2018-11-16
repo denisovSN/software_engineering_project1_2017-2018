@@ -1,20 +1,24 @@
-This is the project file of Software Engineering project Assignment 3 Reversi game
+Software Engineering Project
+
+Implementation of the 'Riversi Game'.
+
 
 Team members:
 Jiazheng_Li (16212162), Svetoslav_Nizhnichenkov (17712081)
 
 
 Svetoslav_Nizhnichenkov (17712081)
-work on
-A.2.1 Computing positions where the player can move
-A.2.2 Asking the player where s/he wants to move
+Worked on: 
+1. A.2.1 Computing positions where the player can move
+2. A.2.2 Asking the player where s/he wants to move
 
 Jiazheng_Li (16212162)
-work on
-A.2.3 Disks placement
+Worked on: 
+1. A.2.3 Disks placement
+2. A.3 Print final result 
 
 
-Our compiler version:
+Compiler version:
 Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
 Apple LLVM version 9.0.0 (clang-900.0.39.2)
 Target: x86_64-apple-darwin17.4.0
