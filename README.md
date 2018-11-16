@@ -1,4 +1,4 @@
-Software Engineering Project
+Software Engineering Project (Stage 1)
 
 Implementation of the 'Riversi Game'
 
