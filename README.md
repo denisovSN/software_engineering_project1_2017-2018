@@ -1,6 +1,6 @@
 Software Engineering Project
 
-Implementation of the 'Riversi Game'.
+Implementation of the 'Riversi Game'
 
 
 Team members:
@@ -10,7 +10,7 @@ Jiazheng_Li (16212162), Svetoslav_Nizhnichenkov (17712081)
 Svetoslav_Nizhnichenkov (17712081)
 Worked on: 
 1. A.2.1 Computing positions where the player can move
-2. A.2.2 Asking the player where s/he wants to move
+2. A.2.2 Asking the player for his next move
 
 Jiazheng_Li (16212162)
 Worked on: 
